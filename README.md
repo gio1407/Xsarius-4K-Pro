@@ -2,7 +2,7 @@
 
 # Xsarius 4k Pro - Device Specifications
 
-| Naam     | Xsarius 4K Pro                       |
+| Naam     | Xsarius Pure 4K                    |
 | :------- | :-------------------------------- |
 | `CPU` | Amlogic S905W |
 | `RAM` | 1GB DDR3 |
